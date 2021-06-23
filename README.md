@@ -10,4 +10,4 @@ Consiste em uma aplicação simples onde o usuario pode cadastrar suas tarefas, 
 
 ### Resultado da tela.
 
-<img src="./telaMobile.png" alt="tela mobile"/>
+![image](https://user-images.githubusercontent.com/69804027/123145949-be88f780-d433-11eb-9294-461377253d32.png)
