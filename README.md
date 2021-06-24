@@ -4,7 +4,7 @@ Consiste em uma aplicação simples onde o usuario pode cadastrar suas tarefas, 
 
 ### Tecnologia utilizada.
 
-  * Angular
+  * Vue
 
   *Biblioteca:* [Moment](https://www.npmjs.com/package/moment), responsavel por formatar a data e hora.
 
